@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "title": "OutpostOS",
+  "description": "A classroom mission-control simulation about linked systems, evidence-based decisions, and the chains behind failure.",
+  "defaultCaptions": {
+    "x": "OutpostOS — keep the crew healthy for 30 sols.",
+    "facebook": "Run a lunar outpost, balance five linked systems, and trace every cascade in OutpostOS.",
+    "reddit": "I built OutpostOS, a browser-based systems-thinking lab for classrooms.",
+    "discord": "OutpostOS: plan, simulate, survive, debrief."
+  },
+  "assets": {
+    "favicon": "assets/share/favicon.png"
+  }
+}
